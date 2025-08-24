@@ -3,7 +3,7 @@
 ## Why Learn the Linux Command Line?
 The Linux command line, also known as the terminal, is a powerful tool used to 
 interact with the Linux operating system. Instead of clicking through menus like in 
-a graphical interface GUI, you type commands to perform tasks. With the 
+a graphical interface (GUI), you type commands to perform tasks. With the 
 terminal, you can run programs, manage files, configure the system, 
 troubleshoot issues, and so much more — often faster and more precisely than 
 using a GUI. While it may look intimidating at first, the command line gives you full 
