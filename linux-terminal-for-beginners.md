@@ -80,10 +80,10 @@ behind the scenes.
  
 If you're just starting, donʼt worry — there are plenty of great resources to help 
 you. Some of the best ones I found are:
- LinuxJourney.com                           - Simple and beginner-friendly
- TryHackMe: Linux Fundamentals              - Great for practical learning
- Hack The Box Academy: Linux for Beginners  - Step-by-step learning
- YouTube                                    - Tons of videos to follow along visually
+ * LinuxJourney.com                           - Simple and beginner-friendly
+ * TryHackMe: Linux Fundamentals              - Great for practical learning
+ * Hack The Box Academy: Linux for Beginners  - Step-by-step learning
+ * YouTube                                    - Tons of videos to follow along visually
 
 Just take it step by step, try the commands, and keep going. Youʼll get better 
 every day
